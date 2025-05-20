@@ -1,0 +1,163 @@
+,name,location,industry,funding,investors,link
+0,SoundHound,"Santa Clara, California",Artificial Intelligence (AI) Startups," Corporate Round, $215 Million", Bracket Capital,http://www.soundhound.com/
+1,People.ai ,"San Francisco, California",Artificial Intelligence (AI) Startups," Series C, $100 Million"," Andreessen Horowitz (a16z), Lightspeed Ventures, Y Combinator",
+2,Riskified ,"New York, New York",Artificial Intelligence (AI) Startups," Series E, $228.7 Million"," Poalim Equity, Winslow Capital",
+3,nate,"New York, New York",Artificial Intelligence (AI) Startups," Series A, $47.3 Million", Canaan Partners,https://www.nate.tech/
+4,Linguix,"Miami, Florida",Artificial Intelligence (AI) Startups," Pre-Seed, $1M", Flyer One Ventures,
+5,Observe.AI,"San Francisco, California",Artificial Intelligence (AI) Startups," Series C, $214 Million"," Y Combinator, Menlo Ventures, Softbank Vision Fun",https://www.observe.ai/
+6,Babbel,"Berlin, Germany",App Startups," Series C, $33.3 Million"," IBB Ventures, NGP Capital, REV",https://www.babbel.com/
+7,Realworld,"New York, New York",App Startups," Seed, $3.5 Million"," Techstars, Bezos Expeditions",
+8,So Syncd,"London, United Kingdom",App Startups," Pre-Seed, $1 Million"," KM Capital, Upscalers",
+9,Heetch ,"Paris, France",App Startups," Series B, $75.3 Million"," Kima Ventures, Idinvest Partners",
+10,Blinkist,"Berlin, Germany",App Startups," Series C, $34.8 Million"," Insight Partners, Greycroft",https://www.blinkist.com/
+11,Snappr,"San Francisco, California",App Startups," Series A, $13 Million"," Y Combinator, Alumni Ventures",https://www.snappr.com/
+12,Wonolo,"San Francisco, California",App Startups," Series D, $190.9 Million"," Sequoia Capital, Bain Capital Ventures",https://www.wonolo.com/
+13,Saie,"New York, New York",Beauty and Wellness Startups," Seed, Undisclosed"," Unilever Ventures, G9 Ventures",https://saiehello.com/
+14,Kinship,"Corte Madera, California",Beauty and Wellness Startups," Early Stage VC, $2.85 Million"," Sugar Capital, True Beauty Ventures",https://lovekinship.com/
+15,Parallel Health,"San Francisco, California ",Beauty and Wellness Startups," Pre-Seed, Undisclosed"," Rhythm VC, Illumina Accelerator",
+16,Golde,"New York, New York",Beauty and Wellness Startups," Seed, Undisclosed "," Newtype Ventures, Rose Street Capital",https://golde.co/
+17,Tonal,"San Francisco, California",Beauty and Wellness Startups," Series E, $450 Million"," Mayfield Fund, Shasta Ventures",https://www.tonal.com/
+18,by Humankind,"New York, New York",Beauty and Wellness Startups," Seed, $4M"," SV Angel, BoxGroup",https://byhumankind.com/
+19,Clear For Me,"New York, New York",Beauty and Wellness Startups," Seed, $150k", Founder Institute,
+20,Chainalysis,"New York, New York",Blockchain Startups," Series E, $366.6 Million"," Techstars, Accel, SV Angel",https://www.chainalysis.com/
+21,Chain,"San Francisco, California",Blockchain Startups," Secondary Market, $43.7 Million"," 500 startups, SV Angel",https://chain.com/
+22,Paxful,"Wilmington, Delaware",Blockchain Startups, Undisclosed, N/A,https://paxful.com/
+23,Spring Labs ,"Marina Del Rey, California",Blockchain Startups," Series B, $68.8 Million"," 500 Startups, RRE Ventures",
+24,SALT,"Denver, Colorado",Blockchain Startups," Later Stage VC, $9.7 Million", David Namdar,http://saltlending.com/
+25,Dragonchain,"Bellevue, Washington ",Blockchain Startups," Corporate Round, $28.3M "," Julian Sarokin, Alex Dahan",
+26,AaDya Security,"Detroit, Michigan",Cybersecurity Startups," Seed, $4.7 Million"," Gaingels, Next Coast Ventures",
+27,Axis Security,"San Mateo, California ",Cybersecurity Startups," Series C, $99.5 Million"," Canaan Partners, Spark Capital",https://www.axissecurity.com/
+28,Confluera ,"Palo Alto, California ",Cybersecurity Startups," Series A, $29 Million "," Lightspeed Ventures, Icon Ventures",
+29,Enso ,"Tel Aviv, Israel ",Cybersecurity Startups," Seed, $6 Million "," Jump Capital, YL Ventures",
+30,Illumio ,"Sunnyvale, California",Cybersecurity Startups," Series F, $557.5 Million"," Accel, General Catalyst",
+31,Verishop,"Santa Monica, California",Ecommerce Startups," Series B, $30 Million"," Lightspeed Venture Partners, Alumni Ventures",https://www.verishop.com/
+32,Pabio,"Bern, Switzerland",Ecommerce Startups," Pre-Seed, $1 Million "," Y Combinator, Pioneer Fund",
+33,Bellroy,"Victoria, Australia ",Ecommerce Startups," Series A, $8 Million"," Silas Capital, Lyra Growth Partners",https://bellroy.com/
+34,Brandless,"Draper, Utah",Ecommerce Startups," Series Unknown, $410.5 Million"," New Enterprise Associates, GV",https://brandless.com/
+35,Hero,"London, United Kingdom",Ecommerce Startups," Non-Equity Assistance, $10 Million"," Sap.io, S28 Capital",https://www.usehero.com/
+36,Lookiero,"Paris, France",Ecommerce Startups," Series C, $53.6 Million"," MMC Ventures, All Iron Ventures",https://lookiero.com/
+37,Jolt,"Tel Aviv, Israel ",Edtech Startups," Series A, $23.3 Million"," Balderton Capital, Octopus Ventures",http://www.jolt.io/
+38,Sana Labs,"Stockholm, Sweden",Edtech Startups," Series A, $20 Million"," Acequia Capital, EQT Ventures",https://www.sanalabs.com/
+39,TinyTap,"Tel Aviv, Israel ",Edtech Startups," Series A, $9.1 Million"," Animoca Brands, New York Angels",https://www.tinytap.com/
+40,Trashbots,"Austin, Texas",Edtech Startups," Seed, $100,000"," Sputnix ATX, Nav Sooch",
+41,Newsela,"New York, New York",Edtech Startups," Series D, $172.2 Million"," Techstars, Kleiner Perkins",https://newsela.com/
+42,GoStudent,"Vienna, Austria",Edtech Startups," Series C, $345.4 Million"," Tencent, Softbank Vision Fund",https://www.gostudent.org/en
+43,Heuritech,"Paris, France",Fashion Startups," Series A, $5.7 Million"," Creative Destruction Lab, SAP.iO",https://www.heuritech.com/
+44,Italic,"Los Angeles, California",Fashion Startups," Series Unknown, $15 Million"," Index Ventures, Global Founders Capital",https://italic.com/
+45,Girlfriend Collective,"Seattle, Washington",Fashion Startups, Undisclosed , N/A,https://www.girlfriend.com/
+46,Merjuri,"Toronto, Canada",Fashion Startups," Series B, $28 Million"," 500 Startups, New Enterprise Associates",https://mejuri.com/
+47,ZILIO,"Melbourne, Australia",Fashion Startups," Pre-Seed, $110", N/A,
+48,Fast,"San Francisco, California",Fintech Startups," Undisclosed, $124.5M"," Kleiner Perkins, Index Ventures",https://www.fast.co/
+49,Digit,"San Francisco, California",Fintech Startups," Series C, $66.3 Million"," General Catalyst, GV",https://digit.co/
+50,Truebill,"Silver Spring, Maryland",Fintech Startups," Series D, $83.9 Million"," Y Combinator, Accel",https://www.truebill.com/
+51,Rally,"New York, New York",Fintech Startups," Debt Financing, $109.1 Million"," Accel, Global Brain Corporation",https://rallyrd.com/
+52,Arthena,"New York, New York",Fintech Startups," Series A, $1.2 Million"," Y Combinator, Foundation Capital",https://arthena.com/
+53,Plaid,"San Francisco, California",Fintech Startups," Series D, $734.3 Million"," New Enterprise Associates, Kleiner Perkins",https://plaid.com/
+54,Brex,"Draper, Utah",Fintech Startups," Series D, $1.5 Billion"," Y Combinator, Bossanova Investimentos",https://brex.com/truic?groupcode=%2Aw%3Asupsa%2B%2Ap%3A%2Bstartups-to-watch%2B%2Al%3Amiddle
+55,Leilo,"New York, New York",Food and Beverage Startups, Undisclosed, N/A,
+56,Chef Avenue,"San Jose, California ",Food and Beverage Startups," Crowdfunding, $280,000 ", Crowdfunded,
+57,Banza,"Detroit, Michigan",Food and Beverage Startups," Series B, $28.8 Million"," Bossanova Investimentos, Endeavor Catalyst",https://www.eatbanza.com/
+58,Bizzy Coffee,"Minneapolis, Minnesota",Food and Beverage Startups," Private, $50,000"," SOSV, M25",
+59,Pepper,"New York, New York",Food and Beverage Startups, Undisclosed, Undisclosed,
+60,GoPuff,"Philadelphia, Pennsylvania",Food and Beverage Startups," Undisclosed, $3.4 Billion"," Accel, Headline",https://gopuff.com/?redirected_to_novus=true
+61,Headspace,"Santa Monica, California",Healthcare Startups," Series C, $215.9 Million"," SV Angel, Allen & Company",https://www.headspace.com/
+62,Parsley Health,"New York, New York",Healthcare Startups," Series B, $36 Million"," Sand Hill Angels, FJ Labs",https://www.parsleyhealth.com/
+63,Circles,"San Francisco, California ",Healthcare Startups," Seed, $8M "," NFX, Zeev Ventures",
+64,NervGen Pharma,"Vancouver, British Columbia",Healthcare Startups," Post-IPO Equity, $17.3 Million", CSBio,
+65,Entrada Therapeutics,"Boston, Massachusetts",Healthcare Startups," Series B, $175.6 Million"," Goldman Sachs, MPM Capital",https://www.entradatx.com/
+66,Corvus Pharmaceuticals,"Burlingame, California",Healthcare Startups," Post-IPO Equity, $215.1 Million"," OrbiMed, Fidelity Management",https://www.corvuspharma.com/
+67,Bicycle Health,"Boston, Massachusetts",Healthcare Startups," Series A, $32.3M "," SignalFire, City Light Capital",
+68,Datanomix,"Nashua, New Hampshire",IoT Startups," Series A, $9 Million "," Alumni Ventures, Wasabi Ventures",https://datanomix.io/
+69,Seeq,"Seattle, Washington",IoT Startups," Series C, $115.2 Million"," Insight Partners, Madrona Venture Group",https://www.seeq.com/
+70,xFarm,"Milan, Italy ",IoT Startups," Series A, $3 Million"," TiVenture, United Ventures",https://xfarm.ag/?lang=en
+71,Infraspeak,"Lisbon, Portugal",IoT Startups," Seed, $5.4 Million"," 500 Startups, Firstminute Capital",https://infraspeak.com/
+72,Ridepanda,"San Francisco, California",Mobility Startups," Seed, $3.8 Million "," Alumni Ventures, General Catalyst",https://www.ridepanda.com/
+73,Mobilyze ,"Cambridge, Massachusetts",Mobility Startups," Pre-Seed, Undisclosed", Urban-X,
+74,Nuro,"Mountain View, California",Mobility Startups," Series D, $2.1 Billion"," Tiger Global Management, Greylock",https://www.nuro.ai/
+75,Citymapper,"London, United Kingdom",Mobility Startups," Equity Crowdfunding, $59.5 Million"," Index Ventures, Greylock",https://citymapper.com/?lang=en
+76,SMOVE.CITY,"Larnaca, Cyprus",Mobility Startups," Seed, $71,623", N/A,
+77,elmo,"London, England",Mobility Startups," Pre-seed, $385,785"," System Two, Greenhous Group",
+78,Felmo,"Berlin, Germany ",Pet Startups," Series Unknown, $17.8 Million"," HV Capital, Redalpine",https://felmo.de/
+79,HelloBello,"Vienna, Austria",Pet Startups," Seed, $1.1 Million"," Vienna Business Agency, Peak Pride",https://mybello.co.uk/
+80,PetDx,"La Jolla, California",Pet Startups," Series A, $9.8 Million"," Tech Coast Angels, Valor Equity Partners",https://petdx.com/
+81,Loyal,"San Francisco, California",Pet Startups," Seed, $4.9 Million"," Khosla Ventures, First Round Capital",https://loyalfordogs.com/
+82,Kairos Living,"Chicago, Illinois",Real Estate Startups, Undisclosed, N/A,https://www.kairosliving.com/
+83,Homelight,San Francisco ,Real Estate Startups," Debt Financing, $627.5 Million"," 500 Startups, GV, Menlo Ventures",
+84,Snapdocs,"San Francisco, California",Real Estate Startups," Series D, $253 Million"," Y Combinator, Sequoia Capital",https://www.snapdocs.com/
+85,Premier Virtual,"Delray, Florida",Software Startups, Undisclosed, SHRMLabs,
+86,Tink,"Stockholm, Sweden",Software Startups," Series Unknown, $308.4 Million"," Insight Partners, Eurazeo",https://tink.com/
+87,Mixtroz,"Birmingham, Alabama",Software Startups," Seed, $2.4 Million"," Backstage Capital, Timberline Holding",
+88,Databricks,"San Francisco, California",Software Startups," Series H, $3.5 Billion"," New Enterprise Associates, SV Angel",https://databricks.com/
+89,Fiverr,"Tel Aviv, Israel ",Software Startups," Series E, $111 Million"," Accel, Bessemer Venture Partners",https://go.fiverr.com/visit/?bta=344840&brand=fiverrhybrid&afp=%2Aw%3Asupsa%2B%2Ap%3A%2Bstartups-to-watch%2B%2Al%3Abottom
+90,Motive (Formerly KeepTruckin),"San Francisco, California",Software Startups," Series F, $567.3 Million"," Kleiner Perkins, Index Ventures",
+91,Codecov,"Amsterdam, New York",Software Startups, Undisclosed, BoxGroup,https://about.codecov.io/
+92,Agricool,"Paris, France",Sustainable Startups," Series B, $43.9 Million"," Bpifrance, Kima Ventures",https://www.agricool.co/en/
+93,Too Good To Go,"Copenhagen, Denmark",Sustainable Startups," Series Unknown, $45.7 Million"," Blisce, VF Venture",
+94,Hempitecture,"Boise, Idaho",Sustainable Startups," Crowdfunding, $3.3 Million", N/A,
+95,TemperPack,"Richmond, Virginia",Sustainable Startups," Series C, $64.4 Million"," Revolution, SJF Ventures",https://www.temperpack.com/
+96,Airalo,Singapore,Travel Startups," Series A, $1.9 Million"," Plug and Play Tech Center, Wayra",https://www.airalo.com/
+97,The Hotels Network ,"Barcelona, Spain",Travel Startups," Series B, $15,200"," NFX, Elaia",
+98,CityCatt,"Orlando, Florida",Travel Startups," Pre-Seed, $50,000", Journey Venture Partners,
+99,Duffel,"London, United Kingdom",Travel Startups," Series B, $56.2 Million"," Y Combinator, Index Ventures",https://duffel.com/
+100,SurveyAuto,"Mountain View, CA", AI, Undisclosed, Bill and Melinda Gates Foundation,
+101,Spacemaker,"Oslo, Norway", AI, $25M, Atomico,
+102,Capacity,"North Brunswick, New Jersey", AI, $23.2M, Equity.com,
+103,Observe.AI,"San Francisco, California, United States", AI, $34.1M, Scale Ventures,
+104,Eyewear tech,"Pleasanton, CA", AI, Undisclosed, High Tech Grunderfords,
+105,Streem,"Portland, Oregon, United States", AI, $10.5M, Flying Fish Partners,https://www.streem.pro/
+106,Snackpass,"San Francisco, California, United States", Ecommerce, £80M, DMG Ventures,https://www.snackpass.co/
+107,Cazoo,"London, United Kingdom", Ecommerce, $87M, DBL Partners,https://www.cazoo.co.uk/
+108,Wheels,"IL, USA", Ecommerce, $30M, DBL Partners,https://www.takewheels.com/#our-focus
+109,Verishop,"Santa Monica, California, United States", Ecommerce, $25.5M, Trip Advisor,https://www.verishop.com/
+110,Eatigo,"Bangkok, Krung Thep, Thailand .", EdTech, Undisclosed, N/A,https://eatigo.com/
+111,NutSpace,India, EdTech, Undisclosed, N/A,https://nutspace.in/
+112,CoachHub,"Berlin, Berlin, Germany", EdTech, AED10M, Al Arabi Investments,https://coachhub.io/
+113,Coded Minds,"Calgary, Canada", EdTech, $22.2M, Reach Capital,https://www.coded-minds.org/
+114,Springboard,"San Francisco, CA, US", EdTech, $34.2M, Owl Ventures,https://www.springboard.com/
+115,Labster,"Copenhagen, Hovedstaden, Denmark", EdTech, $78.8M, Stripes,https://www.labster.com/
+116,Pleo,"Copenhagen, Hovedstaden, Denmark", FinTech, $78.8M, Stripes,https://www.pleo.io/en/
+117,Securitize,"San Francisco, California, United States", FinTech, Bootstrapped,InvestorsN/A,https://www.securitize.io/
+118,NuovoPay,India, FinTech, $78.8M, Stripes,https://nuovopay.com/
+119,Radpay,"Phoenix, Arizona, United States", FinTech, $600K, Fulgur Ventures,https://www.radpay.com/
+120,BUTTON Wallet,"San Francisco, California, United States", FinTech, $600K, Fulgur Ventures,
+121,Hastee,"London, England, United Kingdom", FinTech, €8.8M, HV Holtzbrinck Ventures,https://www.hastee.com/
+122,Finn AI,"Vancouver, British Columbia, Canada", FinTech, $1.6M, Golden Angel Investors,
+123,CNote,nan, Food and Beverages, $1.6M, Golden Angel Investors,https://www.mycnote.com/
+124,Meatable,"Delft, Netherlands", Food and Beverages, $89M, VentureSouq,https://www.meatable.com/
+125,Kitopi,"Dubai, UAE", Food and Beverages, $1.7M, The Broe Group,https://www.kitopi.com/
+126,TapRm,"Brooklyn, New York, United States", Food and Beverages, $1.7M, The Broe Group,https://taprm.com/
+127,Choco,"Berlin, Berlin, Germany", Health Care, $5.2M, Industrifonden,https://www.choco.com/
+128,NuvoAir,"Boston, MA", FinTech, $332K, Deutsche Bank,https://www.nuvoair.com/
+129,iRise,"Los Angeles, CA", Health Care, $31.3M, GV,
+130,Kindbody,"New York, New York, United States", Health Care, $15.1M, RTP Global,https://kindbody.com/
+131,Zenyum,"Singapore, SG", Health Care, $11M, Builders VC,https://www.zenyum.com/
+132,NeuroFlow,Philadelphia, Health Care, $1M, N/A,https://www.neuroflowsolution.com/
+133,Lenscope,"Sao Paulo, Brasil", Blockchain, $17.4M, Bitcoin.com,https://lenscope.com.br/
+134,Eligma,"Ljubljana, Slovenia", Blockchain, $35M, Javelin Ventures,https://eligma.com/
+135,Mythical Games,"Los Angeles, California, United States", Blockchain, $38.9M, Andreessen Horowitz,https://mythical.games/
+136,Dapper Labs,"Vancouver, British Columbia, Canada", IoT, €3M, TiVenture,
+137,xFarm,"Manno, Ticino, Switzerland", IoT, $5.4M, TiVenture,https://xfarm.ag/?lang=en
+138,Infraspeak,"Oporto, Porto, Portugal", IoT, $2.5M, IANFund,https://www.infraspeak.com/
+139,Zypp,India, IoT, $5M, Blockchain Ventures,https://www.mobycy.com/
+140,Nodle.io,"San Francisco, California, United States", IoT, $12M, Symphony Holdings,
+141,Smarten Spaces,"Singapore, SG", IoT, $1.5M, Surge Ahead,https://www.smartenspaces.com/
+142,Seekify,"South Delhi, India", Software and SaaS, €2M, Cherry Ventures,https://seekify.com/
+143,Speechly,"Helsinki, Finland", Software and SaaS, N/A, N/A,https://www.speechly.com/
+144,ButterCMS,"San Francisco, California, United States", Software and SaaS, €2M, Cherry Ventures,https://buttercms.com/
+145,Tego,"Waltham, Massachusetts, United States", Software and SaaS, $186M, Cherry Ventures,https://tegoinc.com/
+146,Clumio,"Santa Clara, California, United States", Software and SaaS, €2M, Cherry Ventures,https://clumio.com/
+147,Optovision,"Langen, Hesse, Germany", Software and SaaS, Bootstrapped, N/A,https://www.optovision.com/
+148,Soundsuit,"München, Bayern, Germany", Software and SaaS, Undisclosed, NA,https://soundsuit.fm/
+149,Finverity,"London, England, United Kingdom", Software and SaaS, Bootstrapped, N/A,https://finverity.com/
+150,Get Quuie,nan, Software and SaaS, $15M+, Sequoia Capital India and Tiger Global,
+151,InVideo,"San Francisco, California, United States", Travel, Undisclosed, N/A,https://invideo.io/
+152, LuggageHero,"Copenhagen, Hovedstaden, Denmark", Transport, $14.2M, Fatima Ventures,
+153,Airlift,"Lahore, Pakistan", Transport, $9.1B, Hyundai Motors,https://rideairlift.com/
+154,Grab,"Singapore, SG", Travel, $1.9M, Lightspeed Ventures,https://www.grab.com/
+155,Airalo,"Singapore, SG", Travel, $600K, Crowdfunding,https://www.airalo.com/
+156,Undress,"PARIS, ILE DE FRANCE, France", Transport and Travel, $80M, Dash ventures,https://www.theundress.com/
+157,Swvl,"Dubai, UAE", Transport and Travel, $8.4M, Deciens Capital,https://swvl.com/
+158,Chipper Cash,"San Francisco, California, United States", Mobile Apps, $46.9M, Insight Partners,https://chippercash.com/
+159,HqO,"Boston, MA", Mobile Apps, $464.6K, Antler,https://www.hqo.co/
+160,Porch Services,"Seattle, Washington, United States", Fashion, $1.8M, Crowdfunding,
+161,ERA Timepieces,"New York, New York, United States", Fashion, $1.5M, Ludlow Ventures,
